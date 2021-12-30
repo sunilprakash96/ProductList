@@ -160,7 +160,6 @@ const styles = StyleSheet.create({
     width: '100%',
     // justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'lightgray',
     paddingLeft: 20,
     paddingRight: 20,
   },
@@ -199,7 +198,7 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize: 20,
-    color: 'white',
+    color: 'black',
   },
  inputWrapper:{
    width: "100%",
